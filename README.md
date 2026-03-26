@@ -63,9 +63,9 @@ All models resulted in ROC-AUC scores close to **0.5**, indicating:
 ## Customer Segmentation
 
 Customers were categorized into:
-- 🔴 High Risk  
-- 🟡 Medium Risk  
-- 🟢 Low Risk  
+- High Risk  
+- Medium Risk  
+- Low Risk  
 
 This helps businesses prioritize retention strategies.
 
